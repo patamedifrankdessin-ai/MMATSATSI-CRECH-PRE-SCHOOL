@@ -1,0 +1,8 @@
+{
+  "name": "MMATSATSI CRECH & PRE-SCHOOL",
+  "description": "A comprehensive school management platform for tracking learners, documents, attendance, and schedules with integrated AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
